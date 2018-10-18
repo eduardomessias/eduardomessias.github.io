@@ -1,5 +1,12 @@
 ## Hello, world!
 
+This is my new website, that - actually - is not a website.
+As i've been using github for a long time and now it converges with - at the most part - everything that i want to do in a near future, it's more than logical to me change my hole digital publications to this platform.
+
+### Why?!
+
+You could be asking yourself. The answer is pretty simply: I can share code directly with you. I mean real code, from real projects. And you can collaborate with.
+
 You can use the [editor on GitHub](https://github.com/eduardomessias/eduardomessias.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
