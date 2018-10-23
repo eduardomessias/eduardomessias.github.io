@@ -9,4 +9,5 @@ You could be asking yourself. The answer is pretty simply: I can share code dire
 
 ---
 # Current project: The Old Man
-
+## Type: Game
+### Programming language: JavaScript
