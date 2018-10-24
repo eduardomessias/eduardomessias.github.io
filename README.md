@@ -8,6 +8,6 @@ As i've been using github for a long time and now it converges with - at the mos
 You could be asking yourself. The answer is pretty simply: I can share code directly with you. I mean real code, from real projects. And now you can also collaborate.
 
 ---
-# Current project: The Old Man
+# The Old Man
 ## Type: Game
 ### Programming language: JavaScript
