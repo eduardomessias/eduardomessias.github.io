@@ -11,4 +11,4 @@ You could be asking yourself. The answer is pretty simply: I can share code dire
 # The Old Man 
 ## Type: Game
 ### Programming language: JavaScript
-[click here to read more](https://eduardomessias.github.io/game-development/the-old-man)
+[click here to read more](https://eduardomessias.github.io/game-development/the-old-man.md)
