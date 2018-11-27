@@ -5,10 +5,11 @@ As i've been using github for a long time and now it converges with - at the mos
 
 ### Why?!
 
-You could be asking yourself. The answer is pretty simply: I can share code directly with you. I mean real code, from real projects. And now you can also collaborate.
+You could be asking yourself. The answer is pretty simple: I can share code directly with you. I mean real code, from real projects. And now you can also collaborate.
 
 ---
-# The Old Man 
-## Type: Game
+
+## Game development 
+### The old man
 ### Programming language: JavaScript
-[click here to read more](https://eduardomessias.github.io/game-development/the-old-man.md)
+[click here to read more about this project](https://eduardomessias.github.io/game-development/the-old-man.md)
