@@ -10,6 +10,6 @@ You could be asking yourself. The answer is pretty simple: I can share code dire
 ---
 
 ## Game development 
-### The old man
+# The old man
 ### Programming language: JavaScript
 [click here to read more about this project](https://eduardomessias.github.io/game-development/the-old-man.md)
