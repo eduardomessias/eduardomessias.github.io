@@ -2,5 +2,5 @@
 
 #### Concept art
 ##### Scene one
-![Scene-one map](https://github.com/eduardomessias/the-old-man/blob/master/concept/the-old-man-scene-one.png)
+![](https://github.com/eduardomessias/the-old-man/blob/master/concept/the-old-man-scene-one.png)
 
