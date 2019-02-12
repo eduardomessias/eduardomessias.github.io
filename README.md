@@ -10,10 +10,10 @@ You could be asking yourself. The answer is pretty simple: I can share code dire
 ---
 
 ## Game development 
-#### [That old fella](https://eduardomessias.github.io/game-development/the-old-man)
-#### [Sylvester](https://eduardomessias.github.io/game-development/the-old-man)
+#### [That old fella](https://eduardomessias.github.io/game-development/that-old-fella)
+#### [Sylvester](https://eduardomessias.github.io/game-development/sylvester)
 
 ## Web development
-#### [Hrp (Home resources planning)](https://eduardomessias.github.io/game-development/the-old-man)
-#### [Build Studio](https://eduardomessias.github.io/game-development/the-old-man)
+#### [Hrp (Home resources planning)](https://eduardomessias.github.io/web-development/build-studio)
+#### [Build Studio](https://eduardomessias.github.io/web-development/hrp)
 
