@@ -17,8 +17,7 @@ You could be asking yourself. The answer is pretty simple: I can share code dire
 #### [Hrp (Home resources planning)](https://eduardomessias.github.io/web-development/build-studio)
 #### [Build Studio](https://eduardomessias.github.io/web-development/hrp)
 
-## Microsoft Dynamics
-### 365
+## Microsoft Dynamics 365
 #### [Finance and Operations](https://eduardomessias.github.io/web-development/hrp)
 #### [Customer Services](https://eduardomessias.github.io/web-development/hrp)
 
