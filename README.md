@@ -21,3 +21,5 @@ You could be asking yourself. The answer is pretty simple: I can share code dire
 #### [Finance and Operations](https://eduardomessias.github.io/web-development/hrp)
 #### [Customer Services](https://eduardomessias.github.io/web-development/hrp)
 
+## Algorithms
+#### [Rotate left](https://eduardomessias.github.io/web-development/hrp)
