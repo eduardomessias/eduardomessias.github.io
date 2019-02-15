@@ -1,4 +1,4 @@
-## Hello, world!
+f# Hello, world!
 
 This is my new website, that - actually - is not a website.
 As i've been using github for a long time and now it converges with - at the most part - everything that i want to do in a near future, it's more than logical to me change my hole digital publications to this platform.
@@ -20,10 +20,10 @@ The web development section can have more than websites, believe me. Here you wi
 #### [Build Studio](https://eduardomessias.github.io/web-development/hrp)
 
 ## Microsoft Dynamics 365
-It's not all about jokes and kid toys. We all need to pay our bills. Here you and me can find the most reasonable solutions for day-by-day problem when you work with this powerful Microsoft business platform. I'm talking about the beloved Dynamics platform.
+It's not all about jokes. We all need to pay our bills. Here you and me can find the most reasonable solutions for day-by-day problems when you work with this powerful Microsoft business platform. Of course i'm talking about the beloved Dynamics platform.
 #### [Finance and Operations](https://eduardomessias.github.io/web-development/hrp)
 #### [Customer Services](https://eduardomessias.github.io/web-development/hrp)
 
 ## Algorithms
-This section only exists to help me keep the brain working, and it's cool. Whenever i see one good or even one pretty normal algorithm that i like or i think it might could help me out some day, i'll put it in here. It you think this could help you as well, you know what to do. ;)
+This section only exists to help me keep the brain working, and it's cool. Whenever i see a good algorithm or even a pretty normal one that makes me like or think that it might help me out some day, i'll put it in here. If you think this can help you as well, you know what to do.
 #### [Rotate left](https://eduardomessias.github.io/web-development/hrp)
