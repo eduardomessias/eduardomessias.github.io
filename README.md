@@ -9,17 +9,21 @@ You could be asking yourself. The answer is pretty simple: I can share code dire
 
 ---
 
-## Game development 
+## Game development
+Those bellow are the games that i am working on at the moment. Each one can be in a different platform and use different technologies. Feel free to read the code, fork and collaborate if you want.
 #### [That old fella](https://eduardomessias.github.io/game-development/that-old-fella)
 #### [Sylvester](https://eduardomessias.github.io/game-development/sylvester)
 
 ## Web development
+The web development section can have more than websites, believe me. Here you will probably find complex web apps, web apis, maybe some really inteligent and critical systems with friendly innocent web fron-end, but do not underestimate them. I trully believe that some day the web apps will survive  and raise from the mobile apps apocalipse. Or not. Feel free...
 #### [Hrp (Home resources planning)](https://eduardomessias.github.io/web-development/build-studio)
 #### [Build Studio](https://eduardomessias.github.io/web-development/hrp)
 
 ## Microsoft Dynamics 365
+It's not all about jokes and kid toys. We all need to pay our bills. Here you and me can find the most reasonable solutions for day-by-day problem when you work with this powerful Microsoft business platform. I'm talking about the beloved Dynamics platform.
 #### [Finance and Operations](https://eduardomessias.github.io/web-development/hrp)
 #### [Customer Services](https://eduardomessias.github.io/web-development/hrp)
 
 ## Algorithms
+This section only exists to help me keep the brain working, and it's cool. Whenever i see one good or even one pretty normal algorithm that i like or i think it might could help me out some day, i'll put it in here. It you think this could help you as well, you know what to do. ;)
 #### [Rotate left](https://eduardomessias.github.io/web-development/hrp)
