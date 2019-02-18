@@ -22,7 +22,6 @@ The web development section can have more than websites, believe me. Here you wi
 ## Microsoft Dynamics 365
 It's not all about jokes. We all need to pay our bills. Here you and me can find the most reasonable solutions for day-by-day problems when you work with this powerful Microsoft business platform. Of course i'm talking about the beloved Dynamics platform.
 #### [Finance and Operations](https://eduardomessias.github.io/microsoft-dynamics-365/finance-and-operations)
-#### [Customer Services](https://eduardomessias.github.io/web-development/hrp)
 
 ## Algorithms
 This section only exists to help me keep the brain working, and it's cool. Whenever i see a good algorithm or even a pretty normal one that makes me like or think that it might help me out some day, i'll put it in here. If you think this can help you as well, you know what to do.
