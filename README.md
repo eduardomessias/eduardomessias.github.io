@@ -9,6 +9,7 @@ You could be asking yourself. The answer is pretty simple: I can share code dire
 
 ---
 
+![](https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.io/master/images/albion-online-icon.png)
 ## Game development
 Those bellow are the games that i am working on at the moment. Each one can be in a different platform and use different technologies. Feel free to read the code, fork and collaborate if you want.
 #### [That old fella](https://eduardomessias.github.io/game-development/that-old-fella)
