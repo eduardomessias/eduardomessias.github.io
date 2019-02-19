@@ -20,6 +20,7 @@ The web development section can have more than websites, believe me. Here you wi
 #### [Build Studio](https://eduardomessias.github.io/web-development/hrp)
 
 ## Microsoft Dynamics 365
+![](https://github.com/eduardomessias/microsoft-dynamics-365/blob/master/MsDyn365FO.png)
 It's not all about jokes. We all need to pay our bills. Here you and me can find the most reasonable solutions for day-by-day problems when you work with this powerful Microsoft business platform. Of course i'm talking about the beloved Dynamics platform.
 #### [Finance and Operations](https://eduardomessias.github.io/microsoft-dynamics-365/finance-and-operations/starting-point)
 
