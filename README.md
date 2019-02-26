@@ -21,7 +21,7 @@ Those bellow are the games that i am working on at the moment. Each one can be i
 ## Web development
 The web development section can have more than websites, believe me. Here you will probably find complex web apps, web apis, maybe some really inteligent and critical systems with friendly innocent web fron-end, but do not underestimate them. I trully believe that some day the web apps will survive  and raise from the mobile apps apocalipse. Or not. Feel free...
 #### [Hrp (Home resources planning)](https://eduardomessias.github.io/web-development/build-studio)
-#### [Build Studio](https://eduardomessias.github.io/web-development/hrp)
+#### [Build Studio](https://eduardomessias.github.io/build-studio)
 
 ---
 
