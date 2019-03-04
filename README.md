@@ -1,38 +1,61 @@
-# Hello, world!
+# Contrast
 
-This is my new website, that - actually - is not a website.
-As i've been using github for a long time and now it converges with almost everything that i want to do in a near future, it's more than logical to me change my hole digital publications to this platform.
+![screenshot](https://user-images.githubusercontent.com/4943215/50294425-2da5bf80-0476-11e9-8a27-8c59a7192cf6.png)
+![screenshot](https://user-images.githubusercontent.com/4943215/50294472-3f876280-0476-11e9-8458-6a40fe735335.png)
 
-### Why?!
+## Installation (recommended)
 
-You could be asking yourself. The answer is pretty simple: I can share code directly with you. I mean real code, from real projects. And now you can also collaborate.
+Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
----
+*Note:* If you want to use this theme in a subfolder, then you need to create a `gh-pages` branch in your repo.
 
-![](https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.io/master/images/albion-online-icon.png)
-## Game development
-Those bellow are the games that i am working on at the moment. Each one can be in a different platform and use different technologies. Feel free to read the code, fork and collaborate if you want.
-#### [That old fella](https://eduardomessias.github.io/game-development/that-old-fella)
-#### [Sylvester](https://eduardomessias.github.io/game-development/sylvester)
+## Installation (jekyll-remote-theme method)
 
----
+You can also create an empty repo, add `index.html` and `archive.html` files, which can be empty but need to contain front matter, and add this to your `_config.yml`:
 
-![](https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.io/master/images/chromium-browser-icon.png)
-## Web development
-The web development section can have more than websites, believe me. Here you will probably find complex web apps, web apis, maybe some really inteligent and critical systems with friendly innocent web fron-end, but do not underestimate them. I trully believe that some day the web apps will survive  and raise from the mobile apps apocalipse. Or not. Feel free...
-#### [Hrp (Home resources planning)](https://eduardomessias.github.io/web-development/build-studio)
-#### [Build Studio](https://eduardomessias.github.io/build-studio)
+```yaml
+remote_theme: niklasbuschmann/contrast
 
----
+plugins:
+  - jekyll-remote-theme
+```
 
-![](https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.io/master/images/microsoft-icon.png)
-## Microsoft Dynamics 365  
-It's not all about jokes. We all need to pay our bills. Here you and me can find the most reasonable solutions for day-by-day problems when you work with this powerful Microsoft business platform. Of course i'm talking about the beloved Dynamics platform.
-#### [Finance and Operations](https://eduardomessias.github.io/microsoft-dynamics-365/finance-and-operations/starting-point)
+For an example repo you can look at the [demo](https://github.com/niklasbuschmann/contrast-demo) of this theme.
 
----
+## Features
 
-![](https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.io/master/images/applications-science-icon.png)
-## Algorithms
-This section only exists to help me keep the brain working, and it's cool. Whenever i see a good algorithm or even a pretty normal one that makes me like or think that it might help me out some day, i'll put it in here. If you think this can help you as well, you know what to do.
-#### [Rotate left](https://eduardomessias.github.io/web-development/hrp)
+ - supports dark mode on macOS Mojave
+ - MathJax support
+ - no external ressources
+ - included archive page
+ - supports pagination
+ - feed generation
+ - responsive
+ - syntax highlighting
+ - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+
+## Based on
+
+- [Minima](https://github.com/jekyll/minima)
+- [Lagrange](https://github.com/LeNPaul/Lagrange)
+- [Font Awesome](http://fontawesome.io/)
+- [KaTeX](https://katex.org/)
+- [Pygments](https://github.com/richleland/pygments-css)
+
+## License
+
+[public domain](http://unlicense.org/)
+
+## Additional Screenshots
+
+### With navbar
+
+![screenshot](https://user-images.githubusercontent.com/4943215/50602342-6bafd400-0eb7-11e9-8275-d0986af3061f.png)
+
+### With navbar and style: contrast
+
+![screenshot](https://user-images.githubusercontent.com/4943215/50602434-82562b00-0eb7-11e9-86f3-ac9b6f577843.png)
+
+### With navbar and style: minimal
+
+![screenshot](https://user-images.githubusercontent.com/4943215/50602485-ae71ac00-0eb7-11e9-8b37-5dd9b5c09d8d.png)
