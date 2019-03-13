@@ -1,7 +1,7 @@
 # Hello, world!
 
 This is my new website, that - actually - is not a website.
-As i've been using github for a long time and now it converges with - at the most part - everything that i want to do in a near future, it's more than logical to me change my hole digital publications to this platform.
+As i've been using github for a long time and now it converges with - at the most part - everything that i want to do in a near future, it's more than logical to me change my digital publications to this platform.
 
 ### Why?!
 
