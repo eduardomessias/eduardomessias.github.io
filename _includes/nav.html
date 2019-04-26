@@ -18,11 +18,13 @@
         <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
         {% endif %}
         {% endfor %}        
-      </nav>
+      </nav>           
     </header>    
+    
+    {% if page.id == 'home' %}
+      {% include search.html %}
+    {% endif %}
   </div>
 </div>
 
-{% if page.id == 'home' %}
-  {% include search.html %}
-{% endif %}
+
