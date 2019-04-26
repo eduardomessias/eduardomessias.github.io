@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I work as a developer for approximately twelve years. In the last eight i'm engaged with the Microsoft Dynamics platform. I've been through some really exciting challenges, such as to architect critical systems and integrate mobile devices to ERPs.
+I've working as a developer for approximately twelve years now. 
+In the last eight of them i've been engaged with the Microsoft Dynamics platform.
+And that's been given me some really exciting challenges, such as to architect critical systems and integrate mobile devices to ERPs.
 
 My main goal is to learn and share!
 
