@@ -36,6 +36,9 @@ navigation:
 # Pagination
 paginate: 5
 
+# Images folder
+img-source: "https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.io/master/images/"
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
