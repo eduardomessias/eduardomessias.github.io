@@ -6,6 +6,8 @@ layout: default
   <h2>There's nothing here, pal!</h2>
 {% endif %}
 
+{% include search.html %}
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
