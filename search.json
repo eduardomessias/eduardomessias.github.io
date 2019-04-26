@@ -14,3 +14,5 @@
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
+
+// reference: https://blog.webjeda.com/instant-jekyll-search/
