@@ -31,7 +31,7 @@ navigation:
   - name: Categories
     url: /categories
   - name: Theme
-    url: https://github.com/eduardomessias/blog
+    url: https://github.com/eduardomessias/
 
 # Pagination
 paginate: 5
