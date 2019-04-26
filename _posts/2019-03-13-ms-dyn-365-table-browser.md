@@ -10,7 +10,7 @@ categories:
 
 A Google chrome's shortcut to access table browser in Dynamics 365 for Finance and Operations
 
-![Table browser search engine for Google Chrome](https://raw.githubusercontent.com/eduardomessias/blog/master/images/MSDyn365FO/table-browser-search-engine.png)
+![Table browser search engine for Google Chrome]({% site.img-source %}MSDyn365FO/table-browser-search-engine.png)
 
 ---
 
