@@ -30,8 +30,8 @@ navigation:
     url: /tags
   - name: Categories
     url: /categories
-  - name: Theme
-    url: https://github.com/eduardomessias/
+  #- name: Theme
+  #  url: https://github.com/eduardomessias/
 
 # Pagination
 paginate: 5
