@@ -30,14 +30,6 @@
     searchResultTemplate: '<div class="posts"><article class="post"><h1><a href="{url}">{title}</a></h1><div class="meta"><span class="date">{date}</span><span class="category">search result</span></div></article></div>',
     json: '/search.json'
   });
-  
-  let searchInput = document.getElementById('search-input');
-  if (window.location.pathname !== '') {
-    searchInput.style.display = "none";
-  }
-  else {
-    searchInput.style.display = "block";
-  }
 </script>
 
 <style>
