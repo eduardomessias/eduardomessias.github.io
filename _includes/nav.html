@@ -21,7 +21,9 @@
       </nav>           
     </header>    
     
+    {% if page.url == site.baseurl %}
     {% include search.html %}
+    {% endif %}
   </div>
 </div>
 
