@@ -31,8 +31,13 @@
     json: '/search.json'
   });
   
-  //let searchInput = document.getElementById('search-input');
-  //searchInput.focus();
+  let searchInput = document.getElementById('search-input');
+  if (window.location.pathname !== '') {
+    searchInput.style.display = "none";
+  }
+  else {
+    searchInput.style.display = "block";
+  }
 </script>
 
 <style>
