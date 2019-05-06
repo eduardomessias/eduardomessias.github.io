@@ -1,9 +1,7 @@
 <!-- Html Elements for Search -->
 <div id="search-container">
   <input type="text" id="search-input" placeholder="Searching for something?!" autofocus>
-  <ul id="results-container"></ul>
-  <hr />
-  <small>All search results</small>
+  <ul id="results-container"></ul>  
 </div>
 
 <!-- Search result template -->
@@ -29,7 +27,7 @@
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    searchResultTemplate: '<div class="posts"><article class="post"><h1><a href="{url}">{title}</a></h1><div class="meta"><span class="date">{date}</span><span class="category">search result</span></div></article></div>',
+    searchResultTemplate: '<div class="posts"><article class="post"><h1><a href="{url}">{title}</a></h1><div class="meta"><span class="date">{date}</span><span class="category">search result</span></div></article><hr /><span class="tag">All search results</span></div>',
     json: '/search.json'
   });
 </script>
