@@ -10,12 +10,17 @@
     <h1><a href="{url}">{title}</a></h1>
     <div class="meta">
       <span class="date">
-        {date}
+        {{ date | date: '%B %d, %Y' }}
       </span>
       <span class="category">
         <i>search result</i>
       </span>
     </div>
+    <div class="entry">
+      {{ post.excerpt }}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read this post</a>
   </article>
 </div>
 </ hr>-->
@@ -25,10 +30,28 @@
 
 <!-- Configuration -->
 <script>
+  let searchResultTemplate = 
+      `
+      <div class="posts">
+        <article class="post">
+          <h1><a href="{url}">{title}</a></h1>
+          <div class="meta">
+            <span class="date">{{ date | date: '%B %d, %Y' }}</span>
+            <span class="category">Search result</span>
+            <div class="entry">
+              {{ post.excerpt }}
+            </div>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read this post</a>
+          </div>
+        </article>
+      </div>
+      <hr />
+      `;
+  
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    searchResultTemplate: '<div class="posts"><article class="post"><h1><a href="{url}">{title}</a></h1><div class="meta"><span class="date">{date}</span><span class="category">search result</span></div></article></div><hr />',
+    searchResultTemplate: searchResultTemplate,
     json: '/search.json'
   });
 </script>
