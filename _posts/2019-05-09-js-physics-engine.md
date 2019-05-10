@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Js physics engine
+title: JavaScript physics engine
 tags:
   - Physics
   - Programming
@@ -14,6 +14,7 @@ Physics engine to general purpose made up with JavaScript
 ---
 
 # Physics engine
+  ## 1. Vector
 
 
 
