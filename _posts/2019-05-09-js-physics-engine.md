@@ -3,7 +3,8 @@ layout: post
 title: Js physics engine
 tags:
   - Physics
-  - Programming  
+  - Programming
+  - JavaScript
 categories:
   - Portfolio
 ---
