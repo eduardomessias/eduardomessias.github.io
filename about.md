@@ -18,5 +18,6 @@ Just a generic one. A developer. And that's all.
 
 [eduardo.messias@outlook.com](mailto:eduardo.messias@outlook.com)
 
-### Resume
-[Curriculum vitae](https://eduardomessias.github.io/curriculum-vitae)
+---
+
+*[Curriculum vitae](https://eduardomessias.github.io/curriculum-vitae)*
