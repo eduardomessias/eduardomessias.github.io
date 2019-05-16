@@ -24,9 +24,9 @@ permalink: /portfolio/
 
   {% for category in site.categories %}
   {% if category[0] == "Portfolio" %}
-    <h1 id="{{ category[0] }}">
+    <!--<h1 id="{{ category[0] }}">
       {{ category[0] }}
-    </h1>
+    </h1>-->
     <ul class="category">
       {% for post in category[1] %}
         {% if post.title != null %}
