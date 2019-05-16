@@ -24,14 +24,14 @@ navigation:
     url: /
   - name: Portfolio
     url: /portfolio
-  - name: About
-    url: /about
-  - name: Archive
-    url: /archive
-  - name: Tags
-    url: /tags
   - name: Categories
     url: /categories
+  - name: Tags
+    url: /tags    
+  - name: Archive
+    url: /archive
+  - name: About
+    url: /about
   #- name: Theme
   #  url: https://github.com/eduardomessias/
 
