@@ -11,7 +11,7 @@ permalink: /portfolio/
 <div class="categories">
   <ul class="label">
     {% for category in site.categories %}
-    {% if category[0] == "portfolio" %}
+    {% if category[0] == "Portfolio" %}
     <li>
       <a href="#{{ category[0] }}">
         <span>{{ category[0] }}</span>
@@ -23,7 +23,7 @@ permalink: /portfolio/
   </ul>
 
   {% for category in site.categories %}
-  {% if category[0] == "portfolio" %}
+  {% if category[0] == "Portfolio" %}
     <h2 id="{{ category[0] }}">
       {{ category[0] }}
     </h2>
