@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Categories
+permalink: /categories/
 ---
 
 {% if site.posts.size == 0 %}
@@ -10,22 +10,25 @@ permalink: /portfolio/
 
 <div class="categories">
   <ul class="label">
-    {% for portfolio in site.portfolio %}
+    {% for category in site.categories %}
+    {% if category[0] == "portfolio" %}
     <li>
-      <a href="#{{ portfolio[0] }}">
-        <span>{{ portfolio[0] }}</span>
-        <span class="count">{{ portfolio[1] | size }}</span>
+      <a href="#{{ category[0] }}">
+        <span>{{ category[0] }}</span>
+        <span class="count">{{ category[1] | size }}</span>
       </a>
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 
-  {% for portfolio in site.portfolio %}
+  {% for category in site.categories %}
+  {% if category[0] == "portfolio" %}
     <h2 id="{{ category[0] }}">
-      {{ portfolio[0] }}
+      {{ category[0] }}
     </h2>
     <ul class="category">
-      {% for post in portfolio[1] %}
+      {% for post in category[1] %}
         {% if post.title != null %}
           <li>
             {% if post.link %}
@@ -40,5 +43,6 @@ permalink: /portfolio/
         {% endif %}
       {% endfor %}
     </ul>
+  {% endif %}
   {% endfor %}
 </div>
