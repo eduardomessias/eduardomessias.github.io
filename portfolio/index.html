@@ -9,7 +9,7 @@ permalink: /portfolio/
 {% endif %}
 
 <div class="categories">
-  <ul class="label">
+  <!--<ul class="label">
     {% for category in site.categories %}
     {% if category[0] == "Portfolio" %}
     <li>
@@ -20,13 +20,13 @@ permalink: /portfolio/
     </li>
     {% endif %}
     {% endfor %}
-  </ul>
+  </ul>-->
 
   {% for category in site.categories %}
   {% if category[0] == "Portfolio" %}
-    <h2 id="{{ category[0] }}">
+    <h1 id="{{ category[0] }}">
       {{ category[0] }}
-    </h2>
+    </h1>
     <ul class="category">
       {% for post in category[1] %}
         {% if post.title != null %}
