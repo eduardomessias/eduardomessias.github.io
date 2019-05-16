@@ -30,6 +30,8 @@ navigation:
     url: /tags
   - name: Categories
     url: /categories
+  - name: Portfolio
+    url: /portfolio
   #- name: Theme
   #  url: https://github.com/eduardomessias/
 
