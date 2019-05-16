@@ -20,4 +20,4 @@ Just a generic one. A developer. And that's all.
 
 ---
 
-*[Curriculum vitae](https://eduardomessias.github.io/curriculum-vitae){:target="_blank"}*
+*[Curriculum vitae](https://eduardomessias.github.io/curriculum-vitae){:target="_blank" rel="noopener"}*
