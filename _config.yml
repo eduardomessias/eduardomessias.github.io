@@ -22,6 +22,8 @@ avatar: https://raw.githubusercontent.com/eduardomessias/eduardomessias.github.i
 navigation:
   - name: Blog
     url: /
+  - name: Portfolio
+    url: /portfolio
   - name: About
     url: /about
   - name: Archive
@@ -30,8 +32,6 @@ navigation:
     url: /tags
   - name: Categories
     url: /categories
-  - name: Portfolio
-    url: /portfolio
   #- name: Theme
   #  url: https://github.com/eduardomessias/
 
