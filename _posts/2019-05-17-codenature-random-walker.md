@@ -23,11 +23,14 @@ Sliders can be used to manipulate probabilties and the source code is open and c
 
 [p5](https://p5js.org) library was used to make easer to draw on the screen, but it's basically JavaScript.
 
+---
+
 <iframe src="https://editor.p5js.org/eduardo.messias/embed/LW49RNzF3" width="400" height="400" scrolling="no"></iframe>
 
 ---
 
 There are two main files in the project: **sketch.js** and **walker.js**.
+
 **sketch.js** contains the graphics manipulation part of the code while **walker.js** is the class that trully contains the probabilty part.
 
 ### sketch.js
