@@ -19,7 +19,7 @@ The coordinate can be manipulated by the chosen direction (east, west, south or 
 By the number of directions to choose we can estimate - generally - that each direction has 25% of chances of being the chosen one.
 
 This exercise helps to understand that probabilty manipulation in a graphical way.
-Sliders can be used to manipulate probabilties and the source code is open and can be changed to make it more interesting as well.
+It contains sliders that can be used to manipulate the probabilty and its source code is open and can be changed to make it more interesting as well.
 
 [p5](https://p5js.org) library was used to make easer to draw on the screen, but it's basically JavaScript.
 
