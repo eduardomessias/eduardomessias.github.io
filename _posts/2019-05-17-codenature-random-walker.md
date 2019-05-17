@@ -29,8 +29,8 @@ Sliders can be used to manipulate probabilties and the source code is open and c
 
 ---
 
-There are two main files in the project: sketch.js and walker.js.
-sketch.js contains the graphics manipulation part of the code while walker.js is the class that trully contains the probabilty part.
+There are two main files in the project: **sketch.js** and **walker.js**.
+**sketch.js** contains the graphics manipulation part of the code while **walker.js** is the class that trully contains the probabilty part.
 
 ### sketch.js
 
