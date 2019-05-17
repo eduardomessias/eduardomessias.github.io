@@ -158,4 +158,6 @@ class Walker {
 }
 ```
 
+---
+
 *This post makes part of my studies about the video series [**The nature of code**](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFlwukCmDf0-1-uSR7mklK), by Daniel Shiffman*.
