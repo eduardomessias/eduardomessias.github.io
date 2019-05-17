@@ -23,9 +23,7 @@ Sliders can be used to manipulate probabilties and the source code is open and c
 
 [p5](https://p5js.org) library was used to make easer to draw on the screen, but it's basically JavaScript.
 
-### Result
-
-<iframe src="https://editor.p5js.org/eduardo.messias/embed/LW49RNzF3" width="400" height="400"></iframe>
+<iframe src="https://editor.p5js.org/eduardo.messias/embed/LW49RNzF3" width="400" height="400" scrolling="no"></iframe>
 
 ---
 
