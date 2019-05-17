@@ -25,7 +25,7 @@ Sliders can be used to manipulate probabilties and the source code is open and c
 
 ### Result
 
-<iframe src="https://editor.p5js.org/eduardo.messias/embed/LW49RNzF3" style="width: 400; height: 400;"></iframe>
+<iframe src="https://editor.p5js.org/eduardo.messias/embed/LW49RNzF3" width="400" height="400"></iframe>
 
 ---
 
