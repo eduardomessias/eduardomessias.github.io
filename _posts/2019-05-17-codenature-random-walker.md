@@ -9,7 +9,7 @@ categories:
   - The nature of code
 ---
 
-How to check and manipulate the probability using a random walker as example
+How to manipulate probabilities using a random walker as example
 
 ---
 
