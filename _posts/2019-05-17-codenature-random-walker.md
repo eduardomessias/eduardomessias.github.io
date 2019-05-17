@@ -16,7 +16,7 @@ How to manipulate probabilities using a random walker as example
 A random walker is a simple application to showcase probabilty.
 A point is drawn on the screen in each iteraction, given a specific coordinate (x e y combination).
 The coordinate can be manipulated by the chosen direction (east, west, south or north) in every new iteraction.
-By the number of direction to choose we can estimate - generally - that each direction has 25% of chances of being the chosen one.
+By the number of directions to choose we can estimate - generally - that each direction has 25% of chances of being the chosen one.
 
 This exercise helps to understand that probabilty manipulation in a graphical way.
 Sliders can be used to manipulate probabilties and the source code is open and can be changed to make it more interesting as well.
