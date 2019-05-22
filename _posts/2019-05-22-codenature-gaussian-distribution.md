@@ -14,6 +14,7 @@ How to manipulate probabilities using a gaussian distribution as example
 ---
 
 Gaussian distribution is also known as normal distribution, as can be seeing in its definition in [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution).
+
 An ellipse is drawn on the screen in each iteraction, given a specific location, which is coordinate (x e y combination), and also a specific size (it's possible to think the size as width and height, in this case, because it's fixed).
 The location is manipulated by the chosen direction (east, west) in every new iteraction.
 
@@ -22,10 +23,9 @@ First, we specify a limit east value, as 100, and a limit west, as 300. The canv
 So, after this first is completed, the ball will appear in random location between the limits mentioned, and what this experiment demonstrates is that, by applying the Gaussian distribution, besides the locations are randomly choosed, there will always be a normal distribution - a medium point, which in this is center of the screen, and a proportional distribution to each of the limits (east and west).
 
 There will not be a moment in time that the ball will be more east or west, by this definition.
-
 This exercise helps to understand that distribution in a graphical way.
 
-[p5](https://p5js.org) library was used to make easer to draw on the screen, but it's basically JavaScript.
+**[p5](https://p5js.org)** library was used to make easer to draw on the screen, but it's basically JavaScript.
 
 ---
 
