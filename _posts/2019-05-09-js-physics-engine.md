@@ -30,8 +30,7 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
     - 3.4 Friction                      
     - 3.5 Attraction       
     
-*Demonstration*   
-<iframe src="https://editor.p5js.org/eduardo.messias/embed/2uV8pWtca" width="400" height="400" scroll="no" align="center"></iframe>  
+<iframe src="https://editor.p5js.org/eduardo.messias/embed/2uV8pWtca" width="800" height="400" scroll="no" align="center"></iframe>  
 
 - *Yellow ball is being pulled down by the weight of its own gravity
 
