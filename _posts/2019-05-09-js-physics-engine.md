@@ -33,6 +33,6 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
 *Demonstration*   
 <iframe src="https://editor.p5js.org/eduardo.messias/embed/2uV8pWtca" width="400" height="400" scroll="no" align="center"></iframe>  
 
-*- Yellow ball is being pulled down by the weight of its own gravity
+- *Yellow ball is being pulled down by the weight of its own gravity
 
 
