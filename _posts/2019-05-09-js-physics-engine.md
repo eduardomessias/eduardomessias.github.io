@@ -16,9 +16,9 @@ Physics engine to general purpose made up with JavaScript
 # Physics engine
 
   - 1 Probability                       
-    - 2.1 Gaussian distribution         
-    - 2.2 Custom distribution           
-    - 2.3 Perlin noise                 
+    - 1.1 Gaussian distribution         
+    - 1.2 Custom distribution           
+    - 1.3 Perlin noise                 
   - 2 Vectors                           
     - 2.1 Location                      
     - 2.2 Velocity                      
