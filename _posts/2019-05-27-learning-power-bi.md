@@ -8,6 +8,7 @@ categories:
   - Microsoft Dynamics 365 for Finance and Operations
   - Data science
   - Business Intelligence
+  - Portfolio
 ---
 
 Using Power BI to publish a simple dashboard
