@@ -22,7 +22,7 @@ There are just a few things that I know about this incredible tool so I decided 
 *Simple Power BI Dashboard built integrated with Microsoft Dynamics 365 F&O data-warehouse.*
 
 In Power BI we can use a bunch of types of data-sources, including SQL Server, CSV files, JSON files, Oracle databases, among other.
-It's possible to import the whole data-source or event use a *"Direct Query"* (as it's called) the eventually become also a data-set inside the dashboard project in the tool.
+It's possible to import the whole data-source or even just a *"Direct Query"* (as it's called) that eventually it'll also become a data-set inside the dashboard project in the tool.
 
 I am not so good with the terminology yet, so i'll just update a simple list down here with some *"Data Science"* naming conventions that i'll learn along the way.
 
