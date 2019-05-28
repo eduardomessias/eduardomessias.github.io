@@ -25,8 +25,4 @@ There are just a few things that I know about this incredible tool so I decided 
 In Power BI we can use a bunch of types of data-sources, including SQL Server, CSV files, JSON files, Oracle databases, among other.
 It's possible to import the whole data-source or even just a *"Direct Query"* (as it's called) that eventually it'll also become a data-set inside the dashboard project in the tool.
 
-I am not so good with the terminology yet, so i'll just update a simple list down here with some *"Data Science"* naming conventions that i'll learn along the way.
-
- Naming convention | Real meaning 
------------------- | -------------
-*Data set*         | The collection of data that is retrieved from a specified data-source. It's actually the data that the data scients will work with.
+Check out the [**Google's machine learning glossary**](https://developers.google.com/machine-learning/glossary/), it can be useful.
