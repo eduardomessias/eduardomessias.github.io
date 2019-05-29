@@ -28,7 +28,7 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
     - 3.2 Gravity                       
     - 3.3 Drag                          
     - 3.4 Friction                      
-    - 3.5 Attraction       
+    - 3.5 Attraction    
     
 ---
     
@@ -47,7 +47,13 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
 - 2 Applying other forces (air resistance)
   - *Air resistance now is being applied to the balls*
   - *Their weight now affects the time they hit the ground*
-  
+
+<iframe src="https://editor.p5js.org/eduardo.messias/embed/xDLfSHug8" width="800" height="400" scroll="no" align="center"></iframe>
+
+- 3 Drag force
+  - *When the balls get into the green liquid box, the unknown material drag them with its force. Science fiction example.*
+
+
 <iframe src="https://editor.p5js.org/eduardo.messias/embed/09nFcoO9L" width="800" height="400" scroll="no" align="center"></iframe>
 
 - 3 Applying friction
