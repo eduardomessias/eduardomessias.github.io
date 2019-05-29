@@ -53,4 +53,9 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
 - 3 Applying friction
   - *With the friction force the balls eventually will stick to the ground, as in the real world*
 
+<iframe src="https://editor.p5js.org/eduardo.messias/embed/2g1izrmTB" width="800" height="400" scroll="no" align="center"></iframe>
+
+- 4 Applying attraction
+  - *The blue ball is applying attraction force over the yellow one.*
+  - *The attraction is affected by the gravitational constant and the mass of each object.*
 
