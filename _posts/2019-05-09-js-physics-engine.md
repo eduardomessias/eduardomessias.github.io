@@ -75,4 +75,4 @@ To simply use this physics-engine in your project you can also add the following
   - *The attraction is affected by the gravitational constant and the mass of each object.*
 
 ---
-*This is resultant from my studies about the [**The nature of code**](http://natureofcode.com) book, by Daniel Shiffman.
+*This is resultant from my studies about the [**The nature of code**](http://natureofcode.com) book, by Daniel Shiffman.*
