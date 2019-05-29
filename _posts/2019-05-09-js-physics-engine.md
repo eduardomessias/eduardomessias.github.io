@@ -19,7 +19,9 @@ Check the source code in the GitHub repository.
 To simply use this physics-engine in your project you can also add the following line in the page:
 
 ```
+
 <script src="https://cdn.jsdelivr.net/gh/eduardomessias/physics-engine/src/physicbody.js"></script>
+
 ```
 
 ### Main features
