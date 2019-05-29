@@ -14,7 +14,7 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
 ---
 
 # Physics engine
-Check the source code in the GitHub repository.
+Check the source code in the [**GitHub repository**](https://github.com/eduardomessias/physics-engine).
 
 To simply use this physics-engine in your project you can also add the following line in the page:
 
