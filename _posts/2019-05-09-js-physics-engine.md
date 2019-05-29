@@ -14,6 +14,15 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
 ---
 
 # Physics engine
+Check the source code in the GitHub repository.
+
+To simply use this physics-engine in your project you can also add the following line in the page:
+
+```
+<script src="https://cdn.jsdelivr.net/gh/eduardomessias/physics-engine/src/physicbody.js"></script>
+```
+
+### Main features
 
   - 1 Probability                       
     - 1.1 Gaussian distribution         
@@ -65,3 +74,5 @@ Physics engine to general purpose made up with JavaScript and **[p5.js](https://
   - *The blue ball is applying attraction force over the yellow one.*
   - *The attraction is affected by the gravitational constant and the mass of each object.*
 
+---
+*This is resultant from my studies about the [**The nature of code**](http://natureofcode.com) book, by Daniel Shiffman.
