@@ -20,7 +20,9 @@ To simply use this physics-engine in your project you can also add the following
 
 ```
 
-<script src="https://cdn.jsdelivr.net/gh/eduardomessias/physics-engine/src/physicbody.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/eduardomessias/physics-engine/src/ellipse.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/eduardomessias/physics-engine/src/rectangle.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/eduardomessias/physics-engine/src/body.js"></script>
 
 ```
 
