@@ -19,8 +19,8 @@ An ellipse is drawn on the screen in each iteraction, given a specific location,
 The location is manipulated by the chosen direction (east, west) in every new iteraction.
 
 We apply the gaussian distribution to the location.
-First, we specify a limit east value, as 100, and a limit west, as 300. The canvas width value is 400, so we basically saying that the ball will never be drawn in the intervals 0-99 and 301-400 of the canvas.
-So, after this first is completed, the ball will appear in random location between the limits mentioned, and what this experiment demonstrates is that, by applying the Gaussian distribution, besides the locations are randomly choosed, there will always be a normal distribution - a medium point, which in this is center of the screen, and a proportional distribution to each of the limits (east and west).
+First, we specify a limit east value, as 100, and a limit west, as 300. The canvas width value is 400, so we are basically saying that the ball will never be drawn in the intervals 0-99 and 301-400 of the canvas.
+So, after this first is completed, the ball will appear in a random location between the limits mentioned above, and what this experiment demonstrates is that, by applying the Gaussian distribution, besides the locations are randomly choosed, there will always be a normal distribution - a medium point, which in this case is the center of the screen, and a proportional distribution to each of the limits (east and west).
 
 There will not be a moment in time that the ball will be more east or west, by this definition.
 This exercise helps to understand that distribution in a graphical way.
