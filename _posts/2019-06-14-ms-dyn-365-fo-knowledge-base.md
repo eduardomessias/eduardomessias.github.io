@@ -12,12 +12,12 @@ Basic knowledge base index for development on AX
 
 ---
 
-Find the employee type 
+1. Find the employee type 
 ```
 hcmWorker.workerRelationType();
 ```
 
-Automatically associate a worker to a vendor 
+2. Automatically associate a worker to a vendor 
 ```
 TrvPartyEmployeeRelationship::findOrCreatePartyEmployeeRelationShip(TrvPartyEmployeeRelationship.AccountType, workerRecId, vendorDimension);
 ```
