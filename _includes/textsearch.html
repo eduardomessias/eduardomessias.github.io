@@ -9,22 +9,24 @@ onkeyup="this.onchange();" onpaste="this.onchange();" oninput="this.onchange();"
 
 <!-- Configuration -->
 <script>
+  var doc, idx;
+  
   window.onload = function() {
-    var doc = {
+    doc = {
       title: document.title.split('-')[0],
       content: document.querySelector('.entry').innerHTML
     }
 
-    var idx = lunr(function () {
+    idx = lunr(function () {
       this.ref('title')
       this.field('content')
 
       this.add(doc)    
-    })
-
-    function searchKB(s) {
-      idx.search(s)
-    }
+    })   
+  }
+  
+  function searchKB(s) {
+    idx.search(s.innerText)
   }
 </script>
 
