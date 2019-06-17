@@ -11,7 +11,7 @@ onkeyup="this.onchange();" onpaste="this.onchange();" oninput="this.onchange();"
 <script>
   var doc = {
     title: document.title.split('-')[0],
-    content: document.documentElement.innerText
+    content: document.querySelector('.entry').innerHTML
   }
     
   var idx = lunr(function () {
