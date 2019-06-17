@@ -6,6 +6,7 @@ tags:
   - Knowledge base
 categories:
   - Microsoft Dynamics 365 for Finance and Operations
+  - Knowledge base
 ---
 
 Basic knowledge base index for development on AX
