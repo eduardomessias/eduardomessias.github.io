@@ -22,3 +22,8 @@ hcmWorker.workerRelationType();
 ```
 TrvPartyEmployeeRelationship::findOrCreatePartyEmployeeRelationShip(TrvPartyEmployeeRelationship.AccountType, workerRecId, vendorDimension);
 ```
+
+**Get dynamic account to from account number**
+```
+LedgerDimensionAccount              ledgerDimensionAccount  = LedgerDynamicAccountHelper::getDynamicAccountFromAccountNumber(accountNum, LedgerAccountACType::Vend);
+```
