@@ -25,5 +25,5 @@ TrvPartyEmployeeRelationship::findOrCreatePartyEmployeeRelationShip(TrvPartyEmpl
 
 **Get dynamic account to from account number**
 ```
-LedgerDimensionAccount              ledgerDimensionAccount  = LedgerDynamicAccountHelper::getDynamicAccountFromAccountNumber(accountNum, LedgerAccountACType::Vend);
+LedgerDimensionAccount ledgerDimensionAccount = LedgerDynamicAccountHelper::getDynamicAccountFromAccountNumber(accountNum, LedgerAccountACType::Vend);
 ```
