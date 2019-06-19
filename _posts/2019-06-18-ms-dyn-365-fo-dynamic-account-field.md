@@ -20,9 +20,9 @@ Imagine a table with two fields:
 |     Ledger   | 1.0.2.1 |
 |     ...      |    ...  |
 
-The first field indicates the kind of account that goes into the second one. Which means that this second one is *dynamic account* field.
+The first field indicates the kind of account that goes into the second one. Which means that the second one is a *dynamic account* field.
 
-To achieve this behavior in some table it's necessary to create these fields according to the following:
+To achieve this behavior in a table it's necessary to create these fields according to the following:
 1. The first field (Account type) needs to extend the data type **LedgerJournalACType**;
 2. The second field (Account) needs to extend the data type **DimensionDynamicAccount**;
 
