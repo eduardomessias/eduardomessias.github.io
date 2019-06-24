@@ -13,7 +13,7 @@
   window.onload = function() {
     doc = {
       title: document.title.split('-')[0],
-      content: document.querySelector('.entry').innerHTML
+      content: document.querySelector('.entry').innerText
     }
 
     idx = lunr(function () {
