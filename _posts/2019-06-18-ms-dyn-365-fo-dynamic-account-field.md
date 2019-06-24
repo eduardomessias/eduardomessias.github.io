@@ -30,6 +30,9 @@ If you want to save data into the this table you can do it like this:
 ```
 LedgerJournalACType     accountType   = LedgerJournalACType::Vend;
 DimensionDynamicAccount account       = LedgerDynamicAccountHelper::getDynamicAccountFromAccountNumber('1001', accountType);
+
+// if the account type is 'Ledger' you can use the line bellow:
+LedgerDimensionAccount  ledgerDim     = LedgerAccountDimensionResolver::newResolver('1.0.2.1-001-038--').resolve();
 ```
 
 If you want to use this approach in a form grid control, you can take this path:
