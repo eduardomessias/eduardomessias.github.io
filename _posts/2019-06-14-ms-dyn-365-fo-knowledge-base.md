@@ -27,3 +27,8 @@ TrvPartyEmployeeRelationship::findOrCreatePartyEmployeeRelationShip(TrvPartyEmpl
 ```
 LedgerDimensionAccount ledgerDimensionAccount = LedgerDynamicAccountHelper::getDynamicAccountFromAccountNumber(accountNum, LedgerAccountACType::Vend);
 ```
+
+**Get ledger dimension account from display value**
+```
+LedgerAccountDimensionResolver::newResolver(displayValue).resolve();
+```
