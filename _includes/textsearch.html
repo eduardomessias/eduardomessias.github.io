@@ -1,7 +1,6 @@
 <!-- Text for Search -->
-<div id="search-container">
+<div id="kbsearch-container">
   <input type="text" id="kb-search-input" placeholder="KB search: find the knowledge..." autofocus onchange="searchKB(this);">
-  <div id="results-container"></div>  
 </div>
 
 <!-- Script pointing to lunr-script.js -->
@@ -27,8 +26,7 @@
   
   function searchKB(s) {
     var results = idx.search(s.value);
-
-    var resultsContainer = document.querySelector('results-container');
+    var resultsContainer = document.querySelector('kbsearch-container');
     
     for (var result of results) {
       resultsContainer.appendChild(result);
