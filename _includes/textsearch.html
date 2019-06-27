@@ -25,12 +25,14 @@
   }
   
   function searchKB(s) {
-    var results = idx.search(s.value);
-    var resultsContainer = document.getElementById('kbsearch-container');
-    
-    for (var result of results) {
-      resultsContainer.innerText = JSON.stringify(result);
-    }
+      var els = document.querySelector('.entry').children();
+
+      for (var el of els) {
+        if (el.innerText.includes(s)) {
+          el.style.backgroundColor = 'yellow';
+          el.focus();
+        }
+      }
   }
 </script>
 
