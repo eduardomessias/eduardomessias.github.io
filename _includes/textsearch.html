@@ -28,7 +28,7 @@
       var els = document.querySelector('.entry').children;
 
       for (var el of els) {
-        if (el.innerText.includes(s)) {
+        if (el.innerText.includes(s.value)) {
           el.style.backgroundColor = 'yellow';
           el.focus();
         }
