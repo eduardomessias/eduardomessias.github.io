@@ -26,7 +26,7 @@
   
   function searchKB(s) {
     var results = idx.search(s.value);
-    var resultsContainer = document.querySelector('kbsearch-container');
+    var resultsContainer = document.getElementById('kbsearch-container');
     
     for (var result of results) {
       resultsContainer.appendChild(result);
