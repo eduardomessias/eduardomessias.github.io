@@ -29,7 +29,7 @@
     var resultsContainer = document.getElementById('kbsearch-container');
     
     for (var result of results) {
-      resultsContainer.appendChild(result);
+      resultsContainer.innerText = JSON.stringify(result);
     }
   }
 </script>
