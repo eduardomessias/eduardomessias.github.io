@@ -53,8 +53,8 @@
       }
     }
 
-    for (var c in el.children) {
-      loopEls(c, isResult);
+    for (var i = 0; i < el.childElementCount; i++) {
+      loopEls(el.children[i], isResult);
     }
   }
 </script>
