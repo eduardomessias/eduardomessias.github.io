@@ -8,7 +8,10 @@
   var doc, idx;
   
   window.onload = function() {
-    document.getElementById('kb-search-input').focus();   
+    document.getElementById('kb-search-input').focus(); 
+    
+    var entry = document.querySelector('.entry');
+    entry.onclick = loopEls(entry, false);
   }
   
   function searchKB(s) {
