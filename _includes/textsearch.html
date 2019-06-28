@@ -28,17 +28,24 @@
       var els = document.querySelector('.entry').children;
 
       for (var el of els) {
-        loopEls(el, s);
+        if (el.innerText && el.innerText.includes(s.value)) {
+          loopEls(el, true);
+          el.focus();
+        }
+        else {
+          loopEls(el, false);
+        }
       }
   }
 
-  function loopEls(el, s) {
-    if (el.classList && el.classList.contains('kbsearch-result'))
-      el.classList.remove('kbsearch-result');
-
-    if (el.innerText && el.innerText.includes(s.value)) {
+  function loopEls(el, isResult) {
+    if (isResult) {
       el.classList.add('kbsearch-result');
-      el.focus();
+    }
+    else {
+      if (el.classList) {
+        el.classList.remove('kbsearch-result');
+      }
     }
 
     for (var c in el.childNodes) {
