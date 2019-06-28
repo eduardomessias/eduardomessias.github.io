@@ -33,10 +33,10 @@
   }
 
   function loopEls(el, s) {
-    if (el.classList.contains('kbsearch-result'))
+    if (el.classList && el.classList.contains('kbsearch-result'))
       el.classList.remove('kbsearch-result');
 
-    if (el.innerText.includes(s.value)) {
+    if (el.innerText && el.innerText.includes(s.value)) {
       el.classList.add('kbsearch-result');
       el.focus();
     }
