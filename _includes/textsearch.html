@@ -29,6 +29,9 @@
 
       for (var el of els) {
         if (el.innerText.includes(s.value)) {
+          if (el.childElementCount == 1) {
+            el = el.childElement;
+          }
           el.style.backgroundColor = 'yellow';
           el.focus();
         }
