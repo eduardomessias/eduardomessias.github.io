@@ -40,7 +40,12 @@
 
   function loopEls(el, isResult) {
     if (isResult) {
-      el.classList.add('kbsearch-result');
+      if (el.classList) {
+        el.classList.add('kbsearch-result');
+      }
+      else {
+        el.style.backgroundColor = 'yellow';
+      }
     }
     else {
       if (el.classList) {
