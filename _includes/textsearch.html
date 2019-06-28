@@ -28,19 +28,22 @@
       var els = document.querySelector('.entry').children;
 
       for (var el of els) {
-        if (el.classList.contains('kb-result'))
-          el.classList.remove('kb-result');
-
-        if (el.innerText.includes(s.value)) {
-          el.classList.add('kb-result');
-
-          for (var ch of el.childNodes) {
-            el.style.backgroundColor = 'yellow';
-          }
-
-          el.focus();
-        }
+        loopEls(el, s);
       }
+  }
+
+  function loopEls(el, s) {
+    if (el.classList.contains('kbsearch-result'))
+      el.classList.remove('kbsearch-result');
+
+    if (el.innerText.includes(s.value)) {
+      el.classList.add('kbsearch-result');
+      el.focus();
+    }
+
+    for (var c in el.childNodes) {
+      loopEls(c);
+    }
   }
 </script>
 
