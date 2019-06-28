@@ -28,7 +28,7 @@
       var els = document.querySelector('.entry').children;
 
       for (var el of els) {
-        if (el.innerText && el.innerText.includes(s.value)) {
+        if (s.value != "" && el.innerText && el.innerText.includes(s.value)) {
           loopEls(el, true);
           el.focus();
         }
