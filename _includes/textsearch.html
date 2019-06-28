@@ -3,25 +3,12 @@
   <input type="text" id="kb-search-input" placeholder="KB search: find the knowledge..." autofocus onchange="searchKB(this);">
 </div>
 
-<!-- Script pointing to lunr-script.js -->
-<script type="text/javascript" src="../scripts/lunr.js"></script>
-
 <!-- Configuration -->
 <script>
   var doc, idx;
   
   window.onload = function() {
-    doc = {
-      title: document.title.split('-')[0],
-      content: document.querySelector('.entry').innerText
-    }
-
-    idx = lunr(function () {
-      this.ref('title')
-      this.field('content')
-
-      this.add(doc)    
-    })   
+    document.getElementById('kb-search-input').focus();   
   }
   
   function searchKB(s) {
