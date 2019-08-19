@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home resources planning #02
+title: Home resources planning [2/2]
 tags:
   - HRP
   - Development logbook
