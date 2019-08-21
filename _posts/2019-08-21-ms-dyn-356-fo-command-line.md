@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build model trhough command line
+title: Build model through command line
 tags:
   - MSDyn365FO
   - Tricks and cheats
