@@ -28,4 +28,4 @@ A user enters a new record by using a grid control on a form. They begin by pres
   - 10 **leave** on the data source.
   - 11 **leaveRecord** on the data source.
 
-*[Copied from the Microsoft Dynamics AX 2012 documentation](https://docs.microsoft.com/en-us/dynamicsax-2012/developer/event-method-sequences-when-a-record-is-created)
+*[Copied from the Microsoft Dynamics AX 2012 documentation](https://docs.microsoft.com/en-us/dynamicsax-2012/developer/event-method-sequences-when-a-record-is-created)*
