@@ -7,6 +7,7 @@ tags:
   - JavaScript
 categories:
   - Portfolio
+  - Game development
 ---
 
 Physics engine to general purpose made up with JavaScript and **[p5.js](https://p5js.org)**
