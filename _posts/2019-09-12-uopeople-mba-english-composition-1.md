@@ -2,7 +2,7 @@
 layout: post
 title: English composition 1
 tags:
-  - MBA
+  - English
   - Study notes
 categories:
   - University of people
