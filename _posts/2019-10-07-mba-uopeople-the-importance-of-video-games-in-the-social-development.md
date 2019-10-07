@@ -9,11 +9,9 @@ categories:
   - MBA
 ---
 
-There must be a measuring which might help the society's comprehension regarding how video games are affecting the social development.
+A brief five-paragraph non-referenced thesis
 
 ---
-
-The importance of video games in the social development
 
 There must be a measuring which might help the society's comprehension regarding how video games are affecting the social development. There are some aspects of the social development that can be unconsciously used and improved in the life of a human being. In mathematics, they use game theory to study decision-taking. We could also use the team-spirit applied by the players, the risk study they do before the decision is taken, or even the game mode, where the player chose to have an easy or hard campaign. Overall, there are many points that can be measured to help the society to understand how the video games are impacting the social development.
 
