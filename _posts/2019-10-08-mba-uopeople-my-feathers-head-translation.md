@@ -13,8 +13,7 @@ Uma tradução livre inglês-português de uma história africana
 
 ---
 
-# **A cara do meu pai**
-por **Okwiri Oduor**  
+Por **Okwiri Oduor**  
 traduzido por **Eduardo Messias**
 
 Eu tinha a intenção de convocar meu pai apenas pela curiosidade de saber como era a cara dele, mas então ele estava aqui e eu não sabia como afastá-lo de volta.
