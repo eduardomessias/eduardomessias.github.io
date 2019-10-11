@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A cara do meu pai
+title: A cabeça do meu pai
 tags:
   - English
   - Study notes
@@ -16,7 +16,7 @@ Uma tradução livre inglês-português de uma história africana
 Por **Okwiri Oduor**  
 traduzido por **Eduardo Messias**
 
-Eu tinha a intenção de convocar meu pai apenas pela curiosidade de saber como era a cara dele, mas então ele estava aqui e eu não sabia como afastá-lo de volta.
+Eu tinha a intenção de convocar meu pai apenas pela curiosidade de saber como era a cabeça dele, mas então ele estava aqui e eu não sabia como afastá-lo de volta.
 
 Tudo começou na terça-feira em que pe. Ignatius veio da Imaculada Conceição em Kitgum. As velhas vestiam seus vestidos de domingo e os velhos arrancavam girlandas de bougavília do cercado e as prendiam em suas lapelas. Um deles não saiu do dormitório porque não conseguiu encontrar seu shikwarusi e, quando eu o coagi e o intimidei, ele deu um tapinha no cabelo e disse: "Meu Deus, você quer que o padre de Uganda pense que é assim que me visto todos os dias?".
 
@@ -32,5 +32,5 @@ O sermão inaugural de pe. Ignatius era sobre amor: Amar ao próximo como a ti m
 
 O que eu queria saber era que tipo de pessoa o pe. Ignatius pensava que era, instruindo outros a distribuir seu amor de um jeito e de outro, como se alguém pudesse medir o amor em peso, engarrafá-lo dentro de jarras de vidro e o colocar em prateleiras para que os próximos o pegassem como e quando quisessem. Como se alguém pudesse olhar e dizer: "Agora veja: Eu tenho dez amores no total. Deixe-me guardar três para meu país e dar o restante aos meus próximos."
 
-Deve ter sido o jeito que pe. Ignatius encheu sua caneca - até que o chá escorrece...
+Deve ter sido o jeito que pe. Ignatius encheu sua caneca - até que o chá escorrece pela borda de argila passando pelo banquinho e ensopasse seu sapato de lona
 
