@@ -57,3 +57,8 @@ C:\AosService\PackagesLocalDirectory\Bin\ReportsC.exe -metadata=C:\AosService\Pa
 ```
 C:\AosService\PackagesLocalDirectory\Bin\SyncEngine.exe -syncmode=fullall -metadatabinaries=C:\AosService\PackagesLocalDirectory -connect="Data Source=ERP-BL-D-APP-1;Initial Catalog=AxDB;Integrated Security=True;Enlist=True;Application Name=SyncEngine" -fallbacktonative=False -raiseDataEntityViewSyncNotification
 ```
+
+**Get the item description in the current language**
+```
+EcorResProductTranslation::getNameOrDefaultName(InventTable::find(_custInvoiceTrans.ItemId).Product;
+```
