@@ -24,6 +24,9 @@ We cannot be blind to the video games aspects we don't want to see, of course. S
 In general, it's very clear that there must be a measuring which might help the society's comprehension on how video games are affecting the social development, or how they are being offered throughout the behavior that the industry might be already measuring it, for every new video game launched has a target public well defined from the beginning of its implementation project. Those measures should be shared with the well being scientific community and maybe we can change the future games by following what we want for our individuals and hopefully this helps us improve our social development.
 
 Myerson, R. B. (2013). Game Theory Analysis of Conflict. Cumberland: Harvard University Press.
+
 Jacobs, Garry and Asokan, N. (1999). The Social Organism: A Short History of the Idea That a Human Society May Be Regarded As a Gigantic Living Creature. London: Routledge.
+
 Maclay, G. R. (1990). The social organism: a short history of the idea that a human society may be regarded as a gigantic living creature. Croton-on-Hudson, NY: North River Press.
+
 Flanagan, M. and Nissenbaum, H. (2016). Values At Play Valores Em Jogos Digitais. S.l.: BLUCHER.
