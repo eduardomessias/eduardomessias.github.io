@@ -9,7 +9,7 @@ categories:
   - MBA
 ---
 
-Uma tradução livre inglês-português de uma história africana
+Uma tradução livre inglês-português de uma história africana contada por Okwiri Oduor
 
 ---
 
