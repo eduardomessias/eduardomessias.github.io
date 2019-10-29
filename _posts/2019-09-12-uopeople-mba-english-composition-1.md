@@ -7,7 +7,7 @@ tags:
 categories:
   - University of people
   - MBA
-visible: true
+visible: false
 ---
 
 Study notes over the english composition 1 module
