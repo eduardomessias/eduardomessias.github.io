@@ -7,6 +7,7 @@ tags:
 categories:
   - University of people
   - MBA
+hidden: true  
 ---
 
 A brief analysis over the chapter one of "In Cuba I was a German Shepherd" by Ana Menéndez
