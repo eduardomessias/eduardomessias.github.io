@@ -7,6 +7,7 @@ tags:
 categories:
   - University of people
   - MBA
+hidden: true
 ---
 
 Uma tradução livre inglês-português de uma história africana contada por Okwiri Oduor
