@@ -2,12 +2,12 @@
 layout: post
 title: Predictord
 tags:
-  - Physics
+  - Stock analysis
   - Programming
-  - JavaScript
+  - Python
 categories:
   - Portfolio
-  - Game development
+  - Online tools
 ---
 
 Stock analysis tool built in Python
