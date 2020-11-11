@@ -14,8 +14,6 @@ Stock analysis tool built in Python
 
 ---
 
-Stock trading strategies using Python
-
 In the scope of enriching beyond the possibilities hidden in the financial market, a graphical analysis tool appears capable of predicting the best moments of buying and selling the papers existing on the American stock exchange.
 
 Actually, what you see are graphs based on widely known analysis, such as SMA and MACD, produced in a web application created to practice my web-development skills.
