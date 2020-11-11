@@ -14,9 +14,11 @@ Stock analysis tool built in Python
 
 ---
 
-# Predictord
+## Repository
 Check the source code in the [**GitHub repository**](https://github.com/eduardomessias/predictord).
 
+## Online tool
 To access online, click [here](https://predictord.azurewebsites.net/)
 
+### Snapshot
 ![](https://raw.githubusercontent.com/eduardomessias/predictord/main/snapshots/snapshot.png)
