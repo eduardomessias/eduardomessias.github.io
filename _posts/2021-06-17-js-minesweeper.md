@@ -20,6 +20,6 @@ You can also check the source code in its [repository](https://github.com/eduard
 
 ---
 
-<iframe src="https://editor.p5js.org/eduardo.messias/embed/agx68bjfo" width="400" height="400" scrolling="no" align="center"></iframe>
+<iframe src="https://editor.p5js.org/eduardo.messias/embed/agx68bjfo" width="400" height="450" scrolling="no" align="center"></iframe>
 
 
