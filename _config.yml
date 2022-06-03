@@ -34,7 +34,7 @@ github_username:  jekyll
 #theme: bulma-clean-theme
 remote-theme: chrisrhymes/bulma-clean-theme
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
