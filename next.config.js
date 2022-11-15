@@ -1,12 +1,7 @@
 const isGithubActions = process.env.GITHUB_ACTIONS || false
+const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '')
 
-let assetPrefix = ''
-
-if (isGithubActions) {
-  const repo = process.env.GITHUB_REPOSITORY.replace(/.*?\//, '')
-
-  assetPrefix = `/${repo}/`
-}
+let assetPrefix = `/${repo}/`
 
 module.exports = {
   assetPrefix: assetPrefix,
