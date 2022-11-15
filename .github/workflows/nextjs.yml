@@ -31,8 +31,7 @@ jobs:
           touch out/.nojekyll
 
       - name: Deploy
-        # https://github.com/EduardoMessias/github-pages-deploy-action
-        uses: EduardoMessias/github-pages-deploy-action@4.4.0
+        uses: JamesIves/github-pages-deploy-action@4.4.0
         with:
           branch: gh-pages
           folder: out
