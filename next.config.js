@@ -1,5 +1,5 @@
 module.exports = {
-  assetPrefix: "/",
+  assetPrefix: "/eduardomessias.github.io/",
   images: {
     unoptimized: true,
   },
