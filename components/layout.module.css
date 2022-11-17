@@ -1,0 +1,5 @@
+.mainContainer {
+    display: flex;
+    min-height: 100vh;
+    padding: 2em;
+}
